@@ -4,6 +4,12 @@
 <h2>Description</h2>
 This project explores how Large Language Models (LLMs) can be used to generate chord progressions from song lyrics, and classify genre and emotion—bridging Natural Language Processing (NLP) and music composition.
 
+<b>Datasets</b>
+- https://www.cs.cornell.edu/~arb/data/genius-expertise/
+- http://millionsongdataset.com/index.html
+- http://millionsongdataset.com/musixmatch/
+- https://huggingface.co/datasets/ailsntua/Chordonomicon
+
 <h3>🧠 Project Overview</h3>
 Using a combination of pre-trained and fine-tuned models, the project performs:
 
