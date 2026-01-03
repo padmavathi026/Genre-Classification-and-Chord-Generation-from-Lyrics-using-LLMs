@@ -4,8 +4,10 @@
 <h2>Description</h2>
 > ⚠️ **Notebook Rendering Notice**
 >
+
 > This Jupyter Notebook contains audio generation and interactive outputs (e.g., music playback), which may not render correctly in GitHub’s preview and can appear as **“Invalid Notebook”**.
 >
+
 > 👉 **Recommended:** Please download the notebook and run it locally, or view the pre-rendered HTML version linked below for the best experience.
 
 This project explores how Large Language Models (LLMs) can be used to generate chord progressions from song lyrics, and classify genre and emotion—bridging Natural Language Processing (NLP) and music composition.
